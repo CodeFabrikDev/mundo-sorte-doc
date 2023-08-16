@@ -1,1 +1,2 @@
-# mundo-sorte-doc
+# Documentação | Mundo da sorte
+
