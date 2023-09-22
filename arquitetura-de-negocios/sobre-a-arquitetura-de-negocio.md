@@ -1,4 +1,4 @@
-# Sobre a arquitetura de negócio
+# 📌 Sobre a arquitetura de negócio
 
 Usamos a arquitetura de negócio para alinhar as estratégias à construção da aplicação, entregando, assim, mais valor.Baseado no levantamento de pontos importantes para o desenvolvimento, a arquitetura de negócio está comprometida em levantar e descrever os pontos abaixo:
 
