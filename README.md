@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/frame-2.PNG
-coverY: -137.76683937823833
+cover: .gitbook/assets/Frame 15.png
+coverY: -13
 layout:
   cover:
     visible: true
