@@ -11,6 +11,7 @@
 
 ## TUTORIAIS
 
+* [📌 Sobre os tutoriais](tutoriais/sobre-os-tutoriais.md)
 * [Mundo da sorte](tutoriais/mundo-da-sorte/README.md)
   * [Comprar títulos](tutoriais/mundo-da-sorte/comprar-titulos.md)
   * [Conferir Resultados](tutoriais/mundo-da-sorte/conferir-resultados.md)
