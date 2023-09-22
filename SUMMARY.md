@@ -4,7 +4,7 @@
 
 ## Arquitetura de negócios
 
-* [Sobre a arquitetura de negócio](arquitetura-de-negocios/sobre-a-arquitetura-de-negocio.md)
+* [📌 Sobre a arquitetura de negócio](arquitetura-de-negocios/sobre-a-arquitetura-de-negocio.md)
 * [Mapeamento de processos](arquitetura-de-negocios/mapeamento-de-processos/README.md)
   * [Mundo da sorte](arquitetura-de-negocios/mapeamento-de-processos/mundo-da-sorte.md)
   * [Backoffice](arquitetura-de-negocios/mapeamento-de-processos/backoffice.md)
