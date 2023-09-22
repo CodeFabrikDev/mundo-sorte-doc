@@ -23,3 +23,7 @@
   * [Visualizar vendas](tutoriais/backoffice/visualizar-vendas.md)
   * [Visualizar distribuidores](tutoriais/backoffice/visualizar-distribuidores.md)
   * [Gerenciar campanhas](tutoriais/backoffice/gerenciar-campanhas.md)
+
+## CONFIGURAÇÕES
+
+* [Em construção](configuracoes/em-construcao.md)
