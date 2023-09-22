@@ -11,7 +11,10 @@
 
 ## TUTORIAIS
 
-* [Mundo da sorte](tutoriais/mundo-da-sorte.md)
+* [Mundo da sorte](tutoriais/mundo-da-sorte/README.md)
+  * [Comprar títulos](tutoriais/mundo-da-sorte/comprar-titulos.md)
+  * [Conferir Resultados](tutoriais/mundo-da-sorte/conferir-resultados.md)
+  * [Conferir Compras](tutoriais/mundo-da-sorte/conferir-compras.md)
 * [Backoffice](tutoriais/backoffice/README.md)
   * [Acessar conta](tutoriais/backoffice/acessar-conta.md)
   * [Recuperar conta](tutoriais/backoffice/recuperar-conta.md)
